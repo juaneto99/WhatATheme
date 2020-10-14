@@ -3,15 +3,12 @@ title: Mision y Vision
 subtitle: mision
 layout: post
 post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
-description: Mision  Nuestra meta es crear un mundo sin escasez económica, donde cada niño, familia y comunidad están vinculados, producen y prosperan.
+description: "Al invertir juntos en los niños, tenemos la oportunidad de crear un cambio real y duradero para familias y comunidades a nivel mundial”.
 ---
 
-# This is heading 1 
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Nuestra Visión
+
+Nuestra meta es crear un mundo sin escasez económica, donde cada niño, familia y comunidad están vinculados, producen y prosperan.
 
 [This is a link](#)
 
