@@ -3,7 +3,6 @@ title: Mision y Vision
 layout: post
 post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/vision.jpg?raw=true"
 description: Al invertir juntos en los niños, tenemos la oportunidad de crear un cambio real y duradero para familias y comunidades a nivel mundial.
-tags: 0
 ---
 
 
