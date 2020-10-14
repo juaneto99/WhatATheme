@@ -13,13 +13,13 @@ tags:
 
 Con sede en Kansas City, Missouri, EE.UU., somos una organización humanitaria altamente calificada que se enfoca en erradicar la pobreza generacional. Durante más de 80 años, hemos desarrollado una estrategia de alto impacto y basada en información empírica que da a los niños y jóvenes la habilidad de superar la pobreza para siempre.
 
-`* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)`
-`* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)`
-`* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)`
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ---
 
-`# This is the h1 text
+# This is the h1 text
 ## This is the h2 text
 ### This is the h3 text
 #### This is the h4 text
@@ -40,19 +40,19 @@ Con sede en Kansas City, Missouri, EE.UU., somos una organización humanitaria a
 [This is a link](#)
 
 **Bullet list in the post will look like:**`
-`* Item 1`
-`* Item 2`
-`* Item 3`
-`* Item 4`
-`* Item 5`
+* Item 1
+* Item 2
+* Item 3
+* Item 4
+* Item 5
 
-`**Number list in the post will look like:**`
-`1. Item 1`
-`2. Item 2`
-`3. Item 3`
-`4. Item 4`
-`5. Item 5`
-`
+**Number list in the post will look like:**
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+5. Item 5
+
 **Images in the post will look like:**<br>
 ![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
 
@@ -70,4 +70,4 @@ Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molesti
 
 **YouTUbe Videos will look like:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-`
+
