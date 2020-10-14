@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Nuestra vision y mision
 layout: page
 ---
 
