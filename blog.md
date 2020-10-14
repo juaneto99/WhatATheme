@@ -1,5 +1,5 @@
 ---
-title: QUiENES SOMOS?
+title: Blog
 layout: Blog
 ---
 
