@@ -1,6 +1,6 @@
 ---
 title: Mision y Vision
-layout: post
+layout: page
 post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
 ---
 
