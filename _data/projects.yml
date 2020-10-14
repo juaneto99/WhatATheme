@@ -5,17 +5,17 @@
   
 - name: Trabaje con nosotros
   link: https://www.children.org/es/aprender-mas/empleo
-  image: 
+  image: https://github.com/juaneto99/WhatATheme/blob/master/assets/images/trabaje%20con%20nosotros.jpg?raw=true
   description: Unimos a las personas para acabar con la pobreza para siempre
   
 - name: Historia
   link: https://www.children.org/es/aprender-mas/historia
-  image: 
+  image: https://github.com/juaneto99/WhatATheme/blob/master/assets/images/historia.jpg?raw=true
   description: El mundo nos da la bienvenida
   
 - name: Socios Globales
   link: https://www.children.org/es/aprender-mas/socios-globales-listado
-  image: 
+  image: https://github.com/juaneto99/WhatATheme/blob/master/assets/images/socios%20globales.jpg?raw=true
   description: Children International colabora con organizaciones en todo el mundo para mejorar la vida de los niños de escasos recursos.
   
 #- name: Fifth Project
