@@ -1,6 +1,8 @@
 ---
-title: Nuestra vision y mision
-layout: page
+title: Mision
+layout: post
+post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
+description: 
 ---
 
 # This is heading 1
