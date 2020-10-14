@@ -1,7 +1,7 @@
 ---
 title: PREGUNTAS FRECUENTES
 layout: post
-post-image: 
+post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/Preguntas.png?raw=true"
 description: Hubo alguien que dijo, “Él que tiene todas las respuestas no está haciendo las preguntas correctas”. En nuestra opinión, ¡tenemos ambas!
 tags:
 - how to
