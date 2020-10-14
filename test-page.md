@@ -1,9 +1,10 @@
 ---
 title: Mision y Vision
 layout: page
-post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
+
 ---
 
+post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
 
 # Nuestra Visión
 
