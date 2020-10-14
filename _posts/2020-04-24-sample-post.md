@@ -1,17 +1,18 @@
 ---
-title: Sample Post
+title: ¿QUIENES SOMOS?
 layout: post
 post-image: "https://github.com/juaneto99/WhatATheme/blob/master/assets/images/portada.jpg?raw=true"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: Damos a los niños de escasos recursos las herramientas que necesitan para superarse, prosperar y aportar al desarrollo de sus comunidades. Con el apoyo de nuestros donantes, madrinas y padrinos, los niños y jóvenes adquieren las habilidades y la confianza que necesitan para crear un futuro próspero.
 tags:
 - sample
 - post
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
+# Una estrategia meditada y comprobada
+
+Con sede en Kansas City, Missouri, EE.UU., somos una organización humanitaria altamente calificada que se enfoca en erradicar la pobreza generacional. Durante más de 80 años, hemos desarrollado una estrategia de alto impacto y basada en información empírica que da a los niños y jóvenes la habilidad de superar la pobreza para siempre.
+
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
